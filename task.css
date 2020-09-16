@@ -1,0 +1,23 @@
+.gridCell {
+	margin:0;
+	padding:0;
+	border:none;
+	outline:1px solid #000;
+    display:inline-block;
+    font-size: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+.gridCell:hover{
+    background-color:#ed3df9;
+
+}
+
+#grid{
+    height:600px;
+    width:600px;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
